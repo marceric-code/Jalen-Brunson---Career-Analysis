@@ -35,12 +35,12 @@ All statistics were pulled from StatMuse and cleaned in Excel before being loade
 
 ## Dashboard Preview
 
-![Dashboard Preview](brunson%20dashboarad.png)
+![Dashboard Preview](brunson%20dashboard.png)
 
 ## Project Files
 | File | Description |
 |------|-------------|
-| `brunson%20dashboarad.png` | Dashboard screenshot |
+| `brunson dashboard.png` | Dashboard screenshot |
 | `knicks.csv` | Cleaned Excel data used in Power BI |
 
 ---
