@@ -42,6 +42,7 @@ All statistics were pulled from StatMuse and cleaned in Excel before being loade
 |------|-------------|
 | `brunson dashboard.png` | Dashboard screenshot |
 | `knicks.csv` | Cleaned Excel data used in Power BI |
+| `https://www.statmuse.com/nba/player/jalen-brunson-9795` | statmuse link |
 
 ---
 
