@@ -1,4 +1,4 @@
-# Jalen-Brunson---Career-Analysis
+# Jalen Brunson Career Analysis
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ This is an interactive Power BI dashboard that tracks Jalen Brunson's career sta
 ## The Data
 
 All statistics were pulled from StatMuse and cleaned in Excel before being loaded into Power BI. The cleaning process was pretty straightforward — formatting columns consistently, making sure season labels were uniform, and removing any totals rows that would have thrown off the visuals.
-
+Note: StatMuse pulls from official NBA records.
 ## What's on the Dashboard
 
 **KPI Cards** — Career totals and per-game averages for points, assists, rebounds, and steals at a glance.
@@ -43,8 +43,3 @@ All statistics were pulled from StatMuse and cleaned in Excel before being loade
 | `brunson dashboard.png` | Dashboard screenshot |
 | `knicks.csv` | Cleaned Excel data used in Power BI |
 | `https://www.statmuse.com/nba/player/jalen-brunson-9795` | statmuse link |
-
----
-
-## A Note on the Data
-All stats were sourced from StatMuse which pulls from official NBA records.
